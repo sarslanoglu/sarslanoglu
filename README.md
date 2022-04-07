@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**sarslanoglu/sarslanoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🔭 Working on Turkish Cities project
+* 🌱 Learning Elixir
+* ⛵ Encouraging people for open source collaborations.
+* 🤔 Looking for help with new ideas for Turkish Cities
+* 💻 With 4+ years' development working experience
 
-Here are some ideas to get you started:
+<hr>
+<p align="center">
+  <i>Take a look at my repositories and let's get in touch!</i>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href= "https://www.linkedin.com/in/semiharslanoglu/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+<a href= "https://stackoverflow.com/users/10390137/semih-arslanoglu"><img src="https://img.icons8.com/material-outlined/30/000000/stack.png"/></a>
+</p>
+
+<p  align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=sarslanoglu" alt="visitor badge"/>       
+</p>
+</p>
