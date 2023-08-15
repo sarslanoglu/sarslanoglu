@@ -1,10 +1,11 @@
 ### Hello there 👋
 
-* 🔭 Working on Turkish Cities project
-* 🌱 Learning Elixir
-* ⛵ Encouraging people for open source collaborations.
+* 💻 6+ years' development working experience
+* 🎓 Experienced with Ruby on Rails
+* 🔭 Working on Turkish Cities open source project
+* 🌱 Interested with Go, Elixir and Rust
+* ⛵ Encouraging people for open source collaborations
 * 🤔 Looking for help with new ideas for Turkish Cities
-* 💻 With 4+ years' development working experience
 
 <hr>
 <p align="center">
