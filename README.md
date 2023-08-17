@@ -1,9 +1,9 @@
 ### Hello there 👋
 
-* 💻 6+ years' development working experience
+* 💻 6+ years development working experience
 * 🎓 Experienced with Ruby on Rails
 * 🔭 Working on Turkish Cities open source project
-* 🌱 Interested with Go, Elixir and Rust
+* 🌱 Interested in Go, Elixir and Rust
 * ⛵ Encouraging people for open source collaborations
 * 🤔 Looking for help with new ideas for Turkish Cities
 
